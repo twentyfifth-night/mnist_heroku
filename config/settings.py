@@ -25,7 +25,7 @@ SECRET_KEY = 's@vvrsc2$h4+$$xy(u3on&#ov1eg1l5et*pb)!volga4ms2n#x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
